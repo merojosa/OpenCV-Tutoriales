@@ -1,0 +1,5 @@
+# Referencias
+
+- [Visual tracking of human visitors under variable-lighting conditions for a responsive audio art installation](https://ieeexplore.ieee.org/document/6315174)
+- [How to Use Background Subtraction Methods](https://docs.opencv.org/4.x/d1/dc5/tutorial_background_subtraction.html)
+- [Basic motion detection and tracking with Python and OpenCV](https://pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)
